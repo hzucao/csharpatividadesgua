@@ -1,0 +1,15 @@
+C:\dev\exercicioc\calculos\bin\Debug\net7.0\calculos.exe
+C:\dev\exercicioc\calculos\bin\Debug\net7.0\calculos.deps.json
+C:\dev\exercicioc\calculos\bin\Debug\net7.0\calculos.runtimeconfig.json
+C:\dev\exercicioc\calculos\bin\Debug\net7.0\calculos.dll
+C:\dev\exercicioc\calculos\bin\Debug\net7.0\calculos.pdb
+C:\dev\exercicioc\calculos\obj\Debug\net7.0\calculos.csproj.AssemblyReference.cache
+C:\dev\exercicioc\calculos\obj\Debug\net7.0\calculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicioc\calculos\obj\Debug\net7.0\calculos.AssemblyInfoInputs.cache
+C:\dev\exercicioc\calculos\obj\Debug\net7.0\calculos.AssemblyInfo.cs
+C:\dev\exercicioc\calculos\obj\Debug\net7.0\calculos.csproj.CoreCompileInputs.cache
+C:\dev\exercicioc\calculos\obj\Debug\net7.0\calculos.dll
+C:\dev\exercicioc\calculos\obj\Debug\net7.0\refint\calculos.dll
+C:\dev\exercicioc\calculos\obj\Debug\net7.0\calculos.pdb
+C:\dev\exercicioc\calculos\obj\Debug\net7.0\calculos.genruntimeconfig.cache
+C:\dev\exercicioc\calculos\obj\Debug\net7.0\ref\calculos.dll

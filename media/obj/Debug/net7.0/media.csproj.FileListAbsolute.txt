@@ -1,0 +1,15 @@
+C:\dev\exercicioc\media\bin\Debug\net7.0\media.exe
+C:\dev\exercicioc\media\bin\Debug\net7.0\media.deps.json
+C:\dev\exercicioc\media\bin\Debug\net7.0\media.runtimeconfig.json
+C:\dev\exercicioc\media\bin\Debug\net7.0\media.dll
+C:\dev\exercicioc\media\bin\Debug\net7.0\media.pdb
+C:\dev\exercicioc\media\obj\Debug\net7.0\media.csproj.AssemblyReference.cache
+C:\dev\exercicioc\media\obj\Debug\net7.0\media.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicioc\media\obj\Debug\net7.0\media.AssemblyInfoInputs.cache
+C:\dev\exercicioc\media\obj\Debug\net7.0\media.AssemblyInfo.cs
+C:\dev\exercicioc\media\obj\Debug\net7.0\media.csproj.CoreCompileInputs.cache
+C:\dev\exercicioc\media\obj\Debug\net7.0\media.dll
+C:\dev\exercicioc\media\obj\Debug\net7.0\refint\media.dll
+C:\dev\exercicioc\media\obj\Debug\net7.0\media.pdb
+C:\dev\exercicioc\media\obj\Debug\net7.0\media.genruntimeconfig.cache
+C:\dev\exercicioc\media\obj\Debug\net7.0\ref\media.dll
