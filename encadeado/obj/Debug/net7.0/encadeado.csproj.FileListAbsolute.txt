@@ -1,0 +1,15 @@
+C:\dev\exercicioc\encadeado\bin\Debug\net7.0\encadeado.exe
+C:\dev\exercicioc\encadeado\bin\Debug\net7.0\encadeado.deps.json
+C:\dev\exercicioc\encadeado\bin\Debug\net7.0\encadeado.runtimeconfig.json
+C:\dev\exercicioc\encadeado\bin\Debug\net7.0\encadeado.dll
+C:\dev\exercicioc\encadeado\bin\Debug\net7.0\encadeado.pdb
+C:\dev\exercicioc\encadeado\obj\Debug\net7.0\encadeado.csproj.AssemblyReference.cache
+C:\dev\exercicioc\encadeado\obj\Debug\net7.0\encadeado.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicioc\encadeado\obj\Debug\net7.0\encadeado.AssemblyInfoInputs.cache
+C:\dev\exercicioc\encadeado\obj\Debug\net7.0\encadeado.AssemblyInfo.cs
+C:\dev\exercicioc\encadeado\obj\Debug\net7.0\encadeado.csproj.CoreCompileInputs.cache
+C:\dev\exercicioc\encadeado\obj\Debug\net7.0\encadeado.dll
+C:\dev\exercicioc\encadeado\obj\Debug\net7.0\refint\encadeado.dll
+C:\dev\exercicioc\encadeado\obj\Debug\net7.0\encadeado.pdb
+C:\dev\exercicioc\encadeado\obj\Debug\net7.0\encadeado.genruntimeconfig.cache
+C:\dev\exercicioc\encadeado\obj\Debug\net7.0\ref\encadeado.dll
