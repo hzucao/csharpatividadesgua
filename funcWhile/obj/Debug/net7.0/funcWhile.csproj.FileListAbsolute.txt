@@ -1,0 +1,15 @@
+C:\dev\exercicioc\funcWhile\bin\Debug\net7.0\funcWhile.exe
+C:\dev\exercicioc\funcWhile\bin\Debug\net7.0\funcWhile.deps.json
+C:\dev\exercicioc\funcWhile\bin\Debug\net7.0\funcWhile.runtimeconfig.json
+C:\dev\exercicioc\funcWhile\bin\Debug\net7.0\funcWhile.dll
+C:\dev\exercicioc\funcWhile\bin\Debug\net7.0\funcWhile.pdb
+C:\dev\exercicioc\funcWhile\obj\Debug\net7.0\funcWhile.csproj.AssemblyReference.cache
+C:\dev\exercicioc\funcWhile\obj\Debug\net7.0\funcWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicioc\funcWhile\obj\Debug\net7.0\funcWhile.AssemblyInfoInputs.cache
+C:\dev\exercicioc\funcWhile\obj\Debug\net7.0\funcWhile.AssemblyInfo.cs
+C:\dev\exercicioc\funcWhile\obj\Debug\net7.0\funcWhile.csproj.CoreCompileInputs.cache
+C:\dev\exercicioc\funcWhile\obj\Debug\net7.0\funcWhile.dll
+C:\dev\exercicioc\funcWhile\obj\Debug\net7.0\refint\funcWhile.dll
+C:\dev\exercicioc\funcWhile\obj\Debug\net7.0\funcWhile.pdb
+C:\dev\exercicioc\funcWhile\obj\Debug\net7.0\funcWhile.genruntimeconfig.cache
+C:\dev\exercicioc\funcWhile\obj\Debug\net7.0\ref\funcWhile.dll

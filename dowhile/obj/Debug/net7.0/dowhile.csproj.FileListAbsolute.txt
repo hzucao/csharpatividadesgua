@@ -1,0 +1,15 @@
+C:\dev\exercicioc\dowhile\bin\Debug\net7.0\dowhile.exe
+C:\dev\exercicioc\dowhile\bin\Debug\net7.0\dowhile.deps.json
+C:\dev\exercicioc\dowhile\bin\Debug\net7.0\dowhile.runtimeconfig.json
+C:\dev\exercicioc\dowhile\bin\Debug\net7.0\dowhile.dll
+C:\dev\exercicioc\dowhile\bin\Debug\net7.0\dowhile.pdb
+C:\dev\exercicioc\dowhile\obj\Debug\net7.0\dowhile.csproj.AssemblyReference.cache
+C:\dev\exercicioc\dowhile\obj\Debug\net7.0\dowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicioc\dowhile\obj\Debug\net7.0\dowhile.AssemblyInfoInputs.cache
+C:\dev\exercicioc\dowhile\obj\Debug\net7.0\dowhile.AssemblyInfo.cs
+C:\dev\exercicioc\dowhile\obj\Debug\net7.0\dowhile.csproj.CoreCompileInputs.cache
+C:\dev\exercicioc\dowhile\obj\Debug\net7.0\dowhile.dll
+C:\dev\exercicioc\dowhile\obj\Debug\net7.0\refint\dowhile.dll
+C:\dev\exercicioc\dowhile\obj\Debug\net7.0\dowhile.pdb
+C:\dev\exercicioc\dowhile\obj\Debug\net7.0\dowhile.genruntimeconfig.cache
+C:\dev\exercicioc\dowhile\obj\Debug\net7.0\ref\dowhile.dll
