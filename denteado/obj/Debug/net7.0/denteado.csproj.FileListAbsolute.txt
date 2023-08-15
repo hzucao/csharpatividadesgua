@@ -1,0 +1,15 @@
+C:\dev\exercicioc\denteado\bin\Debug\net7.0\denteado.exe
+C:\dev\exercicioc\denteado\bin\Debug\net7.0\denteado.deps.json
+C:\dev\exercicioc\denteado\bin\Debug\net7.0\denteado.runtimeconfig.json
+C:\dev\exercicioc\denteado\bin\Debug\net7.0\denteado.dll
+C:\dev\exercicioc\denteado\bin\Debug\net7.0\denteado.pdb
+C:\dev\exercicioc\denteado\obj\Debug\net7.0\denteado.csproj.AssemblyReference.cache
+C:\dev\exercicioc\denteado\obj\Debug\net7.0\denteado.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicioc\denteado\obj\Debug\net7.0\denteado.AssemblyInfoInputs.cache
+C:\dev\exercicioc\denteado\obj\Debug\net7.0\denteado.AssemblyInfo.cs
+C:\dev\exercicioc\denteado\obj\Debug\net7.0\denteado.csproj.CoreCompileInputs.cache
+C:\dev\exercicioc\denteado\obj\Debug\net7.0\denteado.dll
+C:\dev\exercicioc\denteado\obj\Debug\net7.0\refint\denteado.dll
+C:\dev\exercicioc\denteado\obj\Debug\net7.0\denteado.pdb
+C:\dev\exercicioc\denteado\obj\Debug\net7.0\denteado.genruntimeconfig.cache
+C:\dev\exercicioc\denteado\obj\Debug\net7.0\ref\denteado.dll
