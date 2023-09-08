@@ -1,0 +1,15 @@
+C:\dev\exercicioc\calc\bin\Debug\net7.0\calc.exe
+C:\dev\exercicioc\calc\bin\Debug\net7.0\calc.deps.json
+C:\dev\exercicioc\calc\bin\Debug\net7.0\calc.runtimeconfig.json
+C:\dev\exercicioc\calc\bin\Debug\net7.0\calc.dll
+C:\dev\exercicioc\calc\bin\Debug\net7.0\calc.pdb
+C:\dev\exercicioc\calc\obj\Debug\net7.0\calc.csproj.AssemblyReference.cache
+C:\dev\exercicioc\calc\obj\Debug\net7.0\calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicioc\calc\obj\Debug\net7.0\calc.AssemblyInfoInputs.cache
+C:\dev\exercicioc\calc\obj\Debug\net7.0\calc.AssemblyInfo.cs
+C:\dev\exercicioc\calc\obj\Debug\net7.0\calc.csproj.CoreCompileInputs.cache
+C:\dev\exercicioc\calc\obj\Debug\net7.0\calc.dll
+C:\dev\exercicioc\calc\obj\Debug\net7.0\refint\calc.dll
+C:\dev\exercicioc\calc\obj\Debug\net7.0\calc.pdb
+C:\dev\exercicioc\calc\obj\Debug\net7.0\calc.genruntimeconfig.cache
+C:\dev\exercicioc\calc\obj\Debug\net7.0\ref\calc.dll

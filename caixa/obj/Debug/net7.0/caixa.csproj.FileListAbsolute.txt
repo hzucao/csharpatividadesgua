@@ -1,0 +1,15 @@
+C:\dev\exercicioc\caixa\bin\Debug\net7.0\caixa.exe
+C:\dev\exercicioc\caixa\bin\Debug\net7.0\caixa.deps.json
+C:\dev\exercicioc\caixa\bin\Debug\net7.0\caixa.runtimeconfig.json
+C:\dev\exercicioc\caixa\bin\Debug\net7.0\caixa.dll
+C:\dev\exercicioc\caixa\bin\Debug\net7.0\caixa.pdb
+C:\dev\exercicioc\caixa\obj\Debug\net7.0\caixa.csproj.AssemblyReference.cache
+C:\dev\exercicioc\caixa\obj\Debug\net7.0\caixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicioc\caixa\obj\Debug\net7.0\caixa.AssemblyInfoInputs.cache
+C:\dev\exercicioc\caixa\obj\Debug\net7.0\caixa.AssemblyInfo.cs
+C:\dev\exercicioc\caixa\obj\Debug\net7.0\caixa.csproj.CoreCompileInputs.cache
+C:\dev\exercicioc\caixa\obj\Debug\net7.0\caixa.dll
+C:\dev\exercicioc\caixa\obj\Debug\net7.0\refint\caixa.dll
+C:\dev\exercicioc\caixa\obj\Debug\net7.0\caixa.pdb
+C:\dev\exercicioc\caixa\obj\Debug\net7.0\caixa.genruntimeconfig.cache
+C:\dev\exercicioc\caixa\obj\Debug\net7.0\ref\caixa.dll

@@ -1,0 +1,15 @@
+C:\dev\exercicioc\aluno\bin\Debug\net7.0\aluno.exe
+C:\dev\exercicioc\aluno\bin\Debug\net7.0\aluno.deps.json
+C:\dev\exercicioc\aluno\bin\Debug\net7.0\aluno.runtimeconfig.json
+C:\dev\exercicioc\aluno\bin\Debug\net7.0\aluno.dll
+C:\dev\exercicioc\aluno\bin\Debug\net7.0\aluno.pdb
+C:\dev\exercicioc\aluno\obj\Debug\net7.0\aluno.csproj.AssemblyReference.cache
+C:\dev\exercicioc\aluno\obj\Debug\net7.0\aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicioc\aluno\obj\Debug\net7.0\aluno.AssemblyInfoInputs.cache
+C:\dev\exercicioc\aluno\obj\Debug\net7.0\aluno.AssemblyInfo.cs
+C:\dev\exercicioc\aluno\obj\Debug\net7.0\aluno.csproj.CoreCompileInputs.cache
+C:\dev\exercicioc\aluno\obj\Debug\net7.0\aluno.dll
+C:\dev\exercicioc\aluno\obj\Debug\net7.0\refint\aluno.dll
+C:\dev\exercicioc\aluno\obj\Debug\net7.0\aluno.pdb
+C:\dev\exercicioc\aluno\obj\Debug\net7.0\aluno.genruntimeconfig.cache
+C:\dev\exercicioc\aluno\obj\Debug\net7.0\ref\aluno.dll

@@ -1,0 +1,15 @@
+C:\dev\exercicioc\escola\bin\Debug\net7.0\escola.exe
+C:\dev\exercicioc\escola\bin\Debug\net7.0\escola.deps.json
+C:\dev\exercicioc\escola\bin\Debug\net7.0\escola.runtimeconfig.json
+C:\dev\exercicioc\escola\bin\Debug\net7.0\escola.dll
+C:\dev\exercicioc\escola\bin\Debug\net7.0\escola.pdb
+C:\dev\exercicioc\escola\obj\Debug\net7.0\escola.csproj.AssemblyReference.cache
+C:\dev\exercicioc\escola\obj\Debug\net7.0\escola.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicioc\escola\obj\Debug\net7.0\escola.AssemblyInfoInputs.cache
+C:\dev\exercicioc\escola\obj\Debug\net7.0\escola.AssemblyInfo.cs
+C:\dev\exercicioc\escola\obj\Debug\net7.0\escola.csproj.CoreCompileInputs.cache
+C:\dev\exercicioc\escola\obj\Debug\net7.0\escola.dll
+C:\dev\exercicioc\escola\obj\Debug\net7.0\refint\escola.dll
+C:\dev\exercicioc\escola\obj\Debug\net7.0\escola.pdb
+C:\dev\exercicioc\escola\obj\Debug\net7.0\escola.genruntimeconfig.cache
+C:\dev\exercicioc\escola\obj\Debug\net7.0\ref\escola.dll

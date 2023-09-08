@@ -1,0 +1,15 @@
+C:\dev\exercicioc\carro\bin\Debug\net7.0\carro.exe
+C:\dev\exercicioc\carro\bin\Debug\net7.0\carro.deps.json
+C:\dev\exercicioc\carro\bin\Debug\net7.0\carro.runtimeconfig.json
+C:\dev\exercicioc\carro\bin\Debug\net7.0\carro.dll
+C:\dev\exercicioc\carro\bin\Debug\net7.0\carro.pdb
+C:\dev\exercicioc\carro\obj\Debug\net7.0\carro.csproj.AssemblyReference.cache
+C:\dev\exercicioc\carro\obj\Debug\net7.0\carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicioc\carro\obj\Debug\net7.0\carro.AssemblyInfoInputs.cache
+C:\dev\exercicioc\carro\obj\Debug\net7.0\carro.AssemblyInfo.cs
+C:\dev\exercicioc\carro\obj\Debug\net7.0\carro.csproj.CoreCompileInputs.cache
+C:\dev\exercicioc\carro\obj\Debug\net7.0\carro.dll
+C:\dev\exercicioc\carro\obj\Debug\net7.0\refint\carro.dll
+C:\dev\exercicioc\carro\obj\Debug\net7.0\carro.pdb
+C:\dev\exercicioc\carro\obj\Debug\net7.0\carro.genruntimeconfig.cache
+C:\dev\exercicioc\carro\obj\Debug\net7.0\ref\carro.dll
